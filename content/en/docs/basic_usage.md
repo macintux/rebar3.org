@@ -21,7 +21,7 @@ Rebar3 comes with templates for creating either types of project, callable throu
 - `umbrella`: an alias for `release`
 - `escript`: a special form of single application project that can be built as a runnable script
 - `plugin`: structure for a rebar3 plugin
-- `cmake`: generates a `c_src` folder and `Makefile` for building C/C++ code
+- `cmake`: generates a `c_src` directory and `Makefile` for building C/C++ code
 
 For example:
 
